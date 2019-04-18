@@ -1,0 +1,2 @@
+from generate_newtest_mthan_two import generate_new_test
+from generate_newtrain import generate_new_train
